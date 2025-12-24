@@ -11,6 +11,7 @@ public struct PrimaryButton: View {
     public init(title: String, action: @escaping () -> Void) {
         self.title = title
         self.action = action
+        print("新增------1")
         print("新增------2")
     }
     
