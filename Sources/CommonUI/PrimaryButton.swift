@@ -14,6 +14,7 @@ public struct PrimaryButton: View {
         print("新增------1")
         print("新增------2")
         print("新增------3")
+        print("新增------4")
     }
     
     public var body: some View {
