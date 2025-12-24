@@ -13,6 +13,7 @@ public struct PrimaryButton: View {
         self.action = action
         print("新增------1")
         print("新增------2")
+        print("新增------3")
     }
     
     public var body: some View {
