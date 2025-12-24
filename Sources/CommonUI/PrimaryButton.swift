@@ -18,6 +18,7 @@ public struct PrimaryButton: View {
         print("新增------5")
 
         print("新增------4")
+        print("新增------7")
 
     }
     
